@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tp02XF.MainPage">
+
+    <StackLayout>
+            <Label Text="Style Resources" 
+               HorizontalOptions="Center"
+               FontSize="25"
+               TextColor="Red"/>
+        
+            <Button Text="Estilo Padrão"
+                    Clicked="btnEstiloPadrão"/>
+        
+            <Button Text="Estio Dinâmico" 
+                    Clicked="btnEstiloDinamico"/>
+        
+            <Button Text="Estilo Event Triggers" 
+                    Clicked="btnEventTriggers"/>
+        
+            <Button Text="Estilo Global"/>
+        
+            <Label Text="Passar parametro" 
+                   HorizontalOptions="Center" 
+                   FontSize="25" 
+                   TextColor="Red"/>
+        
+            <Button Text="Estilo Home"/>
+        
+            <Button Text="Messaging Center"/>
+        
+            <Label Text="ListView"
+                   HorizontalOptions="Center" 
+                   FontSize="25"
+                   TextColor="Red"/>
+        
+            <Button Text="Simples" Clicked="btnViewSimples"/>
+        
+            <Button Text="Classes Complexa"/>
+        
+            <Button Text="Produto"/>
+        
+    </StackLayout>
+
+</ContentPage>

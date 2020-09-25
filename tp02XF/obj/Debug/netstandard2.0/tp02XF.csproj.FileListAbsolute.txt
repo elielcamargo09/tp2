@@ -1,0 +1,53 @@
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.deps.json
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\bin\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstiloDinamico.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstiloPadrao.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstiloEventTriggers.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_viewSimples.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.deps.json
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstEventTriggers.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstiloPadrao.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_Est_Dinamic.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_viewSim.xaml.g.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfoInputs.cache
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfo.cs
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.csproj.CoreCompileInputs.cache
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Infra\Desktop\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.deps.json
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\bin\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.csprojAssemblyReference.cache
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\EstEventTriggers.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\EstiloPadrao.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\Est_Dinamic.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\ViewSim.xaml.g.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfoInputs.cache
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.AssemblyInfo.cs
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.csproj.CoreCompileInputs.cache
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.dll
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\ref\tp02XF.dll
+C:\Users\Edilson Camargo\Downloads\TP02 (1)\TP02\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.pdb
